@@ -23,7 +23,7 @@ Questo script nasce dall'esigenza di mantenere il PC attivo durante lunghe attes
 Per iniziare, clonare il repository con il seguente comando:
 
 ```bash
-git clone https://github.com/StormMX/never_sleep.git
+git clone https://github.com/StormMX/never-sleep.git
 ```
 
 ### Avviare CMD
