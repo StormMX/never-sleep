@@ -13,18 +13,20 @@ Questo script nasce dall'esigenza di mantenere il PC attivo durante lunghe attes
 
 ## Requisiti
 
-- **Sistema operativo:** Windows (testato su Windows 10).  
-- **CScript:** Deve essere disponibile sul sistema (incluso di default in Windows per eseguire codice JScript).  
+- Sistema operativo Windows (testato su Windows 10).
+- CScript abilitato sul sistema (incluso di default).  
 
-## Funzionamento
+## Installazione e avvio
 
 ### Clonare il repository
 
-Per iniziare, clonare il repository con il seguente comando:
+Per iniziare, clonare il repository con il seguente comando da terminale:
 
 ```bash
 git clone https://github.com/StormMX/never-sleep.git
 ```
+
+Oppure scaricare lo zip e decomprimerlo.  
 
 ### Avviare CMD
 
@@ -39,6 +41,8 @@ Eseguire lo script digitando:
 ```cmd
 NeverSleep.bat
 ```
+
+## Funzionamento
 
 ### Script
 
@@ -66,7 +70,7 @@ End
 
 Lo script termina automaticamente dopo il numero di minuti specificato.
 
-É possibile interrompere manualmente l'esecuzione chiudendo la finestra del terminale o premendo Ctrl+C.
+È inoltre possibile interrompere l’esecuzione con `Ctrl+C` o chiudendo la finestra del terminale.
 
 ## Note
 
@@ -79,3 +83,9 @@ Non vi è nessun controllo sull'input fornito dall'utente, se inseriti valori di
 CScript deve essere abilitato per un corretto funzionamento.
 
 Per segnalare bug o suggerire miglioramenti, utilizza il sistema di Issues del repository GitHub.
+
+## Licenza
+
+Questo progetto è rilasciato sotto licenza MIT.
+
+Per i dettagli, consultare il file LICENSE.md.
