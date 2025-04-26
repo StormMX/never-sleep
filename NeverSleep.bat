@@ -7,8 +7,8 @@ rem * Questo file .bat esegue l'invio del tasto F15 ogni *
 rem * 60 secondi, prevenendo che il computer vada in     *
 rem * modalita Inattiva/Ibernazione.                     *
 rem *                                                    *
-rem * Per favore leggere il file .md prima di avviare il *
-rem * batch.                                             *
+rem * Per favore prendere visione dei file .md           *
+rem * prima di avviare il batch.                         *
 rem *                                                    *
 rem * Autore: StormMX                                    *
 rem * Versione: 1.0                                      *
